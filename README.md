@@ -20,4 +20,4 @@ CSS
 
 JavaScript
 
-Weather API (e.g., OpenWeatherMap API).
+Weather API (e.g., OpenWeatherMap API)
