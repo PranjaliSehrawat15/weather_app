@@ -4,13 +4,13 @@ This Weather App allows users to search for real-time weather information of any
 
 Features:-
 
-Search for weather by city name
+Search for weather by city name.
 
-Display temperature, weather conditions, wind speed, and humidity
+Display temperature, weather conditions, wind speed, and humidity.
 
-Responsive design for mobile and desktop users
+Responsive design for mobile and desktop users.
 
-Error handling for incorrect city names
+Error handling for incorrect city names.
 
 Technologies Used:-
 
@@ -20,4 +20,4 @@ CSS
 
 JavaScript
 
-Weather API (e.g., OpenWeatherMap API)
+Weather API (e.g., OpenWeatherMap API).
